@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bkf:home|Door43 (bkf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bkf|d43-bkf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bkf/archive/master.zip|d43-bkf.zip]]
+
+**Recent Changes**
+{{changes>ns = bkf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bkf|Ethnologue data]]
+
